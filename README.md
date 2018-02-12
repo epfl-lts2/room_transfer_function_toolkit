@@ -9,7 +9,6 @@ CoSaMP function from https://ch.mathworks.com/matlabcentral/fileexchange/32402-c
 <br />
 __Table of contents of the available code__ <br />
 | Folder name                          | Description                                                    | <br />
-| ------------------------------------ | ---------------------------------------------------------------| <br />
 | data                                 | contains the data for the algorithm                            | <br />
 | figures                              | code that can be used to generate the figures from the paper   | <br />
 | manuscript                           | paper                                                          | <br />
