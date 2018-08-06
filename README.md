@@ -8,10 +8,12 @@ mArrow function from https://ch.mathworks.com/matlabcentral/fileexchange/25372-m
 CoSaMP function from https://ch.mathworks.com/matlabcentral/fileexchange/32402-cosamp-and-omp-for-sparse-recovery coded by Stephen Becker.
 <br />
 __Table of contents of the available code__ <br />
-| Folder name                          | Description                                                    | <br />
-| data                                 | contains the data for the algorithm                            | <br />
-| figures                              | code that can be used to generate the figures from the paper   | <br />
-| manuscript                           | paper                                                          | <br />
-| room_transfer_function_toolkit_matlab| matlab code for room mode processing                           | <br />
-| room_transfer_function_toolkit_python| python code for room mode processing                           | <br />
-| sound_source_localization_in_a_room  | algorithm for localizing sound sources in a room (key piece)   | <br />
+
+| Folder name                          | Description                                                    |
+| ---                                  | ---                                                            |
+| data                                 | contains the data for the algorithm                            |
+| figures                              | code that can be used to generate the figures from the paper   |
+| manuscript                           | paper                                                          |
+| room_transfer_function_toolkit_matlab| matlab code for room mode processing                           |
+| room_transfer_function_toolkit_python| python code for room mode processing                           |
+| sound_source_localization_in_a_room  | algorithm for localizing sound sources in a room (key piece)   |
